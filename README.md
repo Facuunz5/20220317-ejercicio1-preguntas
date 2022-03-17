@@ -32,7 +32,7 @@ la rama y hay que corregir las diferencias.
 Respuesta: sudo rm -rf .git
 
 9. ¿Cómo añadirías la URL de un repositorio remoto?
-Respuesta: 
+Respuesta: Usando git remote add origin "URL" 
 
 10. ¿Cómo explicarías qué ha ocurrido cuando tras la ejecución de un comando de GIT nos responde: "You are in 'detached HEAD' state"?
 Respuesta: Que no nos encontramos en una rama anclada a la base del repo, en una orphan branch. 
